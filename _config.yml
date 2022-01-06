@@ -19,6 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ezrah Nyanat
+baseurl: /
+url: https://ezrahnyanat.github.io
 
 # Build settings
 # theme: minima
