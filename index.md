@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-👋🏽 Hi I'm Ezrah Nyanat.
+👋🏽 Hi. I'm Ezrah Nyanat.
 
 - Husband
 - Father
